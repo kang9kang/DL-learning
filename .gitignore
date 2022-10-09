@@ -1,0 +1,4 @@
+__pycache__
+cnn/__pycache__
+*.pkl
+*.gz
