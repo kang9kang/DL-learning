@@ -139,6 +139,6 @@ def fit_lstm():
     fit('lstm', model)
 
 if '__main__' == __name__:
-    #fit_gru()
-    fit_lstm()
+    fit_gru()
+    #fit_lstm()
     pass
